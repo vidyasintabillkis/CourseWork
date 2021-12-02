@@ -23,4 +23,5 @@ NPM 	: 2117051029
 	cout <<"Password\t: "<<tanggalLahir<<bulanLahir<<tahunLahir<<endl;
 	
 	return 0;
+	
 }
