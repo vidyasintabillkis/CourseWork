@@ -22,5 +22,5 @@ NPM 	: 2117051029
 	cout <<"Username\t: "<<npm<<endl;
 	cout <<"Password\t: "<<tanggalLahir<<bulanLahir<<tahunLahir<<endl;
 	
-	return 1;
+	return 0;
 }
